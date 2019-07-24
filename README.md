@@ -1,5 +1,5 @@
-![app preview 1](assets/img/1.png)
-![app preview 2](assets/img/2.png)
+![app preview 1](assets/img/1.PNG)
+![app preview 2](assets/img/2.PNG)
 
 # Electron Shopping List
 
